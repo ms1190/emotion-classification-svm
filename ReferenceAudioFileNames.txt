@@ -1,0 +1,6 @@
+1320-122612-0000.flac -> track1.wav
+1320-122612-0001.flac -> track2.wav
+1320-122612-0002.flac -> track3.wav
+1320-122612-0003.flac -> track4.wav
+
+All the audio files are from the LibriSpeech ASR corpus' test set, "clean" speech, downloaded from OpenSLR: https://www.openslr.org/12
